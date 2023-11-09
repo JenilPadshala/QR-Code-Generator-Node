@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-generator-node",
+  "version": "1.0.0",
+  "description": "Generate a QR code for the link provided by user.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenil Padshala",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "qr-image": "^3.2.0"
+  }
+}
